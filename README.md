@@ -1,5 +1,14 @@
 # Suma de Números Primos menores a 5,000,000
 
+## Requisitos para ejecutar la aplicación
+
+- **Python 3.8** o superior
+- Sistema operativo compatible con Python (Windows, macOS o Linux)
+- Paquete estándar de Python (`multiprocessing` viene incluido)
+- Recomendado: equipo con múltiples núcleos para aprovechar la versión paralela
+
+Para instalar Python, visita [python.org](https://www.python.org/downloads/).
+
 <!--Lease en https://github.com/fernando-cb12/ProgramacionParalela-->
 
 Este proyecto implementa un programa en Python que calcula la **suma de todos los números primos menores a 5,000,000**, utilizando dos enfoques:
