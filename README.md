@@ -1,5 +1,7 @@
 # Suma de Números Primos menores a 5,000,000
 
+<!--Lease en https://github.com/fernando-cb12/ProgramacionParalela-->
+
 Este proyecto implementa un programa en Python que calcula la **suma de todos los números primos menores a 5,000,000**, utilizando dos enfoques:
 
 - Una versión **secuencial**
@@ -7,9 +9,13 @@ Este proyecto implementa un programa en Python que calcula la **suma de todos lo
 
 El resultado esperado es: `838,596,693,108`.
 
----
+## Hecho por:
 
-## 🧠 Algoritmo para verificar si un número es primo
+Antonio Jesus Calderon Burgos
+
+Fernando Camou Bejarano A01255376
+
+## Algoritmo para verificar si un número es primo
 
 Se utiliza un algoritmo sencillo pero intensivo para el CPU:
 
